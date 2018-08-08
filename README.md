@@ -5,20 +5,20 @@
 *__NOTE TO CONTRIBUTORS:__ Projects are designed to be self documenting in this README file.  Rich text (including screenshots) can be  found inside the projects themselves (as committed assets).  Generally a project overview (including description, sample screenshots, etc.) can be found on the project wiki page at `http://github.com/ca-apm/<repo_name>/wiki`.* 
 
 # Description
-*Provide a short description of the extension here. See [Markdown Basics](https://help.github.com/articles/markdown-basics/) for markdown syntax.*
+This is an example CA Application Performance Management (APM) Command Center (ACC) bundle, version 2, for APM Infrastructure Agent (APMIA).
 
 ## Short Description
 
-*A description of less that 140 characters long, required for APM Marketplace*
+Example CA APM Command Center (ACC) bundle, version 2, for APM Infrastructure Agent (APMIA).
 
 ## APM version
-*APM EM and agent versions the extension has been tested with.*
+10.5+
 
 ## Supported third party versions
-*Third party versions tested with.*
+Not Applicable
 
 ## Limitations
-*What the extension will not do.*
+Not Applicable
 
 ## License
 *Link to the license under which this extension is provided. See [Licensing](https://communities.ca.com/docs/DOC-231150910#license) on the CA APM Developer Community.*
@@ -70,19 +70,9 @@ Although these utilities are unsupported, please let us know if you have any pro
 Unless explicitly stated otherwise this extension is only supported on the same platforms as the APM core agent. See [APM Compatibility Guide](http://www.ca.com/us/support/ca-support-online/product-content/status/compatibility-matrix/application-performance-management-compatibility-guide.aspx).
 
 ### Support URL
-*Mandatory for the APM marketplace*
 
-*if officially supported*
+https://github.com/htdavis/ca-apm-apmia-bundle-example/issues
 
-https://support.ca.com
-
-*if community supported add a link to the github.com issue tracker eg*
-
-https://github.com/CA-APM/ca-apm-fieldpack-epa-aix/issues
-
-*if closed source, not supported, then create an empty github.com repository, and link github issue tracker as a courtesy*
-
-https://github.com/CA-APM/ca-apm-fieldpack-epa-aix/issues
 
 # Contributing
 The [CA APM Community](https://communities.ca.com/community/ca-apm) is the primary means of interfacing with other users and with the CA APM product team.  The [developer subcommunity](https://communities.ca.com/community/ca-apm/ca-developer-apm) is where you can learn more about building APM-based assets, find code examples, and ask questions of other developers and the CA APM product team.
@@ -91,9 +81,7 @@ If you wish to contribute to this or any other project, please refer to [easy in
 
 ## Categories
 
-*Delete this line, and delete all that do not apply from the below list.  Mandatory for APM Marketplace.*
-
-Cloud, Integration, Middleware/ESB, Mobile, .NET, Big Data, Browser, Database, DevOps, Examples, Frameworks, Packaged Applications, Portal, Reporting, Server Monitoring, Virtualization/Containers, Visualization
+Examples
 
 
 # Change log
