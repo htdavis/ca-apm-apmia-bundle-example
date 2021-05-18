@@ -4,7 +4,7 @@
   "author": "John Smith",
   "displayName": "An Example EPA Bundle Extension",
   "version": "1.0.0.0",
-  "facets": [],
+  "facets": ["custom"],
   "dependencies": [
     "apmia"
   ],
