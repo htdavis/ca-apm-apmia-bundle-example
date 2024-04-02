@@ -12,7 +12,7 @@ This is an example CA Application Performance Management (APM) Command Center (A
 Example CA APM Command Center (ACC) bundle, version 2, for APM Infrastructure Agent (APMIA).
 
 ## APM version
-10.5+
+DX APM 22.7+
 
 ## Supported third party versions
 Not Applicable
